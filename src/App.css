@@ -1,0 +1,14 @@
+@import "tailwindcss";
+.navbar{
+    background-color: #bcfded;
+    overflow: hidden;
+    padding: 45px 60px;
+    height:  4rem;
+}
+.navbar a{
+    color: black;
+    text-align: center;
+   margin: 14px 16px;
+    text-decoration: none;
+    font-size: 25px;
+}
